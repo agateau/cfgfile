@@ -1,0 +1,16 @@
+# What
+
+cfgfile is a tool to read and write values from key=value configuration files,
+without loosing comments.
+
+# Where
+
+http://github.com/agateau/cfgfile
+
+# Who
+
+Aurélien Gâteau <aurelien.gateau@free.fr>
+
+# Licence
+
+GPLv3
